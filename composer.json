@@ -1,0 +1,17 @@
+{
+    "name": "twent/php-generators-fibers",
+    "description": "OTUS intensive for learning PHP generators and fibers",
+    "type": "project",
+    "authors": [
+        {
+            "name": "twent",
+            "email": "i@twent.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Twent\\GeneratorsFibers\\": "src/"
+        }
+    },
+    "require": {}
+}
